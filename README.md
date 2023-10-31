@@ -3,7 +3,7 @@
 A website with Nest.js and React to play Pong online.
 
 Features:
-- Login with a google account
+- Login with a 42 account
 - Play a game with another person online
 - Best player charts
 - Live chat
